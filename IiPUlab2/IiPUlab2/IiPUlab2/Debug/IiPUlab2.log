@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\zzlim\desktop\iipulab2\iipulab2\iipulab2\source.cpp(63): warning C4554: >>: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+  IiPUlab2.vcxproj -> C:\Users\zzlim\Desktop\IiPUlab2\IiPUlab2\Debug\IiPUlab2.exe
+  IiPUlab2.vcxproj -> C:\Users\zzlim\Desktop\IiPUlab2\IiPUlab2\Debug\IiPUlab2.pdb (Partial PDB)
